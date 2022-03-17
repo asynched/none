@@ -1,0 +1,10 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "signale": "^1.4.0"
+  }
+}
